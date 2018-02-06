@@ -16,6 +16,9 @@ All the codes in this repo are inspired from the Autonomous curriculum of Dayana
 2. III Semester
    * [Data Structure in C Lab](/III%20Semester/Data-Structure-in-C)
    * [OOPS with Java Lab](/III%20Semester/OOPS-With-Java)
+   
+3. IV Semester
+   * [Microprocessor Lab](/IV%20Semester/Microprocessor_Lab)
 
 
 ## Contributors

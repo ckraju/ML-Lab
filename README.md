@@ -20,6 +20,10 @@ All the codes in this repo are inspired from the Autonomous curriculum of Dayana
 3. IV Semester
    * [Microprocessor Lab](/IV%20Semester/Microprocessor_Lab)
 
+3. IV Semester
+    * [Design and Analysis of Algorithm Lab](/IV%20Semester/ADA_Lab)
+    * [Microprocessor Lab](/IV%20Semester/Microprocessor_Lab)
+
 
 ## Contributors
 1. Rishabh Lakhotia ([GitHub](https://github.com/rishabhlakhotia))
